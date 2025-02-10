@@ -1,12 +1,13 @@
-Automated Message Sender
+<h1>Automated Message Sender </h1>
 
-A script that can be used by Mac users to send messages to people in their contacts at the time specified.
+<h2>Overview</h2>
 
-Tech used: AppleScript and Excel
+When Apple released shortcuts, they originally allowed messages to be sent at a specified time and this was something I utilized often as I would like to send Happy Birthday messages or New Year's messages and ensure that my message would get to the particular owner at 12:00 AM sharp. This was particularly useful when I was on the east coast and most of the people I knew were on the West Coast so utilizing this feature allowed me to not stay up until 3:00 AM. However, due to security concerns, Apple modified this feature so that messages can only be sent when confirmed by the user. This left me with no choice, but to either stay up late or to send a message later than 12:00 AM. To not make any compromises I started developing this script to allow me to still send messages to people I know. This can be utilized by others on mac to send messages to people at any time they specify.
 
+<h2>Requirement To Use</h2>
+Script Editor on Mac and Microsoft Excel
 
-
-How to run the application:
+<h2>How to run the application: </h2>
 
 1. Download the script and the Excel file all into 1 folder
 2. Open the Excel file and include the names of the people you'd like to send the message to in the first column, followed by the message you'd like to send in the second column.
